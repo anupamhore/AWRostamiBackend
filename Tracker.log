@@ -1,0 +1,533 @@
+2024-06-22T13:22:04.037Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066739235969116,24.858342986399865]}}
+2024-06-22T13:22:04.047Z Error storing location: Tracker validation failed: location: Cast to string failed for value "{
+  type: 'Point',
+  coordinates: [ 55.066739235969116, 24.858342986399865 ]
+}" (type Object) at path "location"
+2024-06-22T13:31:09.950Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066739235969116,24.858342986399865]}}
+2024-06-22T13:33:15.616Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066458407831576,24.857960771762745]}}
+2024-06-22T13:33:48.432Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06336929831862,24.859362219657022]}}
+2024-06-22T13:34:18.193Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05339616673582,24.861263703839487]}}
+2024-06-22T13:34:40.080Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04652971138063,24.871231509982007]}}
+2024-06-22T13:35:00.329Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.042409838167515,24.876838047709384]}}
+2024-06-22T13:40:44.944Z Getting Vehicle Location for Vehicle 1
+2024-06-22T13:51:09.051Z Getting Vehicle Location for Vehicle 1
+2024-06-22T13:52:08.206Z Getting Vehicle Location for Vehicle 1
+2024-06-22T13:52:34.180Z Getting Vehicle Location for Vehicle 1
+2024-06-22T13:53:13.944Z Getting Vehicle Location for Vehicle 1
+2024-06-22T13:53:23.749Z Getting Vehicle Location for Vehicle 1
+2024-06-22T14:00:27.239Z Getting Vehicle Location for Vehicle 1
+2024-06-22T14:03:09.488Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.044469774774065,24.881821423250564]}}
+2024-06-22T14:03:15.597Z Getting Vehicle Location for Vehicle 1
+2024-06-22T14:03:24.326Z Getting Vehicle Location for Vehicle 1
+2024-06-22T14:18:21.406Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-22T14:18:40.546Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-22T14:18:50.677Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-22T14:27:21.752Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066739235969116,24.858342986399865]}}
+2024-06-22T14:27:58.081Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066458407831576,24.857960771762745]}}
+2024-06-22T14:28:15.585Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06336929831862,24.859362219657022]}}
+2024-06-22T14:28:32.873Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05339616673582,24.861263703839487]}}
+2024-06-22T14:28:53.287Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04652971138063,24.871231509982007]}}
+2024-06-22T14:29:13.964Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.042409838167515,24.876838047709384]}}
+2024-06-22T14:29:30.947Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.044469774774065,24.881821423250564]}}
+2024-06-22T14:29:54.996Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05202287566478,24.886181711951814]}}
+2024-06-22T14:30:10.588Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05545610334239,24.88805035999078]}}
+2024-06-22T14:30:25.851Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.068502368517244,24.8967703436425]}}
+2024-06-22T14:30:41.244Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07742876047899,24.90424412515019]}}
+2024-06-22T14:31:05.964Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09665483547353,24.914831207513075]}}
+2024-06-22T14:31:22.702Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10146135422217,24.92105847860146]}}
+2024-06-22T14:31:39.069Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09459489886697,24.92728543523413]}}
+2024-06-22T14:31:55.261Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.078802051550035,24.936002646124486]}}
+2024-06-22T14:32:11.785Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06781572298173,24.942851450693684]}}
+2024-06-22T14:32:32.698Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066442431910694,24.94658700180647]}}
+2024-06-22T14:32:47.944Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07468217833692,24.955302847145926]}}
+2024-06-22T14:33:03.676Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.082921924763156,24.963395579681347]}}
+2024-06-22T14:33:18.213Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.08704179797627,24.971487780124495]}}
+2024-06-22T14:33:33.501Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09390825333146,24.990160057380304]}}
+2024-06-22T14:33:48.951Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09665483547353,25.015674249784876]}}
+2024-06-22T14:34:09.437Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10832780957736,25.03558408295097]}}
+2024-06-22T14:34:29.247Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.11931413814567,25.05051433767462]}}
+2024-06-22T14:34:44.759Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.13098711224949,25.061710835597932]}}
+2024-06-22T14:35:01.589Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.13648027653365,25.06979655898282]}}
+2024-06-22T14:35:16.332Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.152959769386115,25.08347887485676]}}
+2024-06-22T14:35:30.633Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.16463274348994,25.095294189761802]}}
+2024-06-22T14:35:45.499Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.17493242652273,25.10275590605873]}}
+2024-06-22T14:35:59.100Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.18866533723312,25.113325891523175]}}
+2024-06-22T14:36:12.978Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.20102495687245,25.12202989922962]}}
+2024-06-22T14:36:27.543Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.21132463990525,25.130111636980264]}}
+2024-06-22T14:36:42.293Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.22093767740252,25.14316562226449]}}
+2024-06-22T14:36:57.385Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.23123736043531,25.15870426099777]}}
+2024-06-22T14:37:11.715Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.242223689003616,25.1723766260529]}}
+2024-06-22T14:37:26.176Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.253210017571924,25.181076423771625]}}
+2024-06-22T14:37:40.457Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.26144976399816,25.19288229874643]}}
+2024-06-22T14:37:57.469Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.268316219353345,25.200959343425108]}}
+2024-06-22T14:38:11.783Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.268931710997016,25.20195853150686]}}
+2024-06-22T14:38:28.248Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.2755870159484,25.21175296319604]}}
+2024-06-22T14:38:44.919Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27760721605616,25.21451321513098]}}
+2024-06-22T14:39:02.085Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27876161611774,25.215930617468608]}}
+2024-06-22T14:39:16.383Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27909144470676,25.21566951827862]}}
+2024-06-22T14:39:30.260Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27830810180783,25.214737016597773]}}
+2024-06-22T14:39:44.322Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.2778133589243,25.21402831054079]}}
+2024-06-22T14:39:58.555Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.276741416009976,25.21257358517624]}}
+2024-06-22T14:40:12.819Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27599930168468,25.211193445036816]}}
+2024-06-22T14:40:26.961Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27562824452203,25.21074582865727]}}
+2024-06-22T14:40:41.053Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.27496858734399,25.209813289245453]}}
+2024-06-22T14:41:07.763Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-22T14:41:16.767Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-22T14:41:22.955Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-22T14:41:31.447Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-22T14:41:46.327Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-22T14:42:03.663Z Getting Vehicle Location for Vehicle 1, Page: 50, Limit: 1
+2024-06-22T14:46:33.811Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-22T14:46:42.533Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-22T14:46:47.896Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-22T14:49:13.503Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-22T14:49:19.872Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-22T15:13:03.731Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T04:39:45.979Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:16:42.983Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:17:22.313Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:18:16.066Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:20:09.397Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:20:27.424Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T05:26:37.566Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:04.294Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:14.275Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:24.278Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:35.964Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:45.964Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:30:55.966Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:05.967Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:15.966Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:25.966Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:35.966Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:45.968Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:31:55.970Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:05.969Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:15.969Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:25.971Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:35.970Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:45.972Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:32:55.973Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:05.974Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:15.979Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:25.977Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:35.977Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:45.980Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:33:55.978Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:05.980Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:16.007Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:25.982Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:35.982Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:45.983Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:34:55.985Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:05.985Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:15.988Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:25.988Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:35.989Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:45.991Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:35:55.992Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:05.992Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:15.990Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:25.990Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:35.993Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:45.994Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:36:55.995Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:05.996Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:15.996Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:25.996Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:35.996Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:45.997Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:37:55.999Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:38:06.001Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:38:16.001Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:38:26.004Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:38:41.245Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:38:51.249Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:01.246Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:11.249Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:21.249Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:31.248Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:41.250Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:39:51.249Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:40:06.662Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:40:16.664Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:40:26.664Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:40:57.129Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:45:03.384Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:47:16.002Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T06:47:26.073Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T06:47:36.123Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-23T06:47:46.171Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-23T06:47:56.223Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T06:48:06.273Z Getting Vehicle Location for Vehicle 1, Page: 6, Limit: 1
+2024-06-23T06:48:17.107Z Getting Vehicle Location for Vehicle 1, Page: 7, Limit: 1
+2024-06-23T06:48:27.156Z Getting Vehicle Location for Vehicle 1, Page: 8, Limit: 1
+2024-06-23T06:48:37.223Z Getting Vehicle Location for Vehicle 1, Page: 9, Limit: 1
+2024-06-23T06:48:47.309Z Getting Vehicle Location for Vehicle 1, Page: 10, Limit: 1
+2024-06-23T06:48:57.356Z Getting Vehicle Location for Vehicle 1, Page: 11, Limit: 1
+2024-06-23T06:49:07.406Z Getting Vehicle Location for Vehicle 1, Page: 12, Limit: 1
+2024-06-23T06:49:17.467Z Getting Vehicle Location for Vehicle 1, Page: 13, Limit: 1
+2024-06-23T06:49:27.585Z Getting Vehicle Location for Vehicle 1, Page: 14, Limit: 1
+2024-06-23T06:49:37.753Z Getting Vehicle Location for Vehicle 1, Page: 15, Limit: 1
+2024-06-23T06:49:47.938Z Getting Vehicle Location for Vehicle 1, Page: 16, Limit: 1
+2024-06-23T06:52:18.817Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:09:39.650Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:09:42.710Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:09:45.786Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T07:09:48.838Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-23T07:09:51.886Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-23T07:09:54.942Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T07:09:57.995Z Getting Vehicle Location for Vehicle 1, Page: 6, Limit: 1
+2024-06-23T07:10:01.070Z Getting Vehicle Location for Vehicle 1, Page: 7, Limit: 1
+2024-06-23T07:10:04.117Z Getting Vehicle Location for Vehicle 1, Page: 8, Limit: 1
+2024-06-23T07:10:07.159Z Getting Vehicle Location for Vehicle 1, Page: 9, Limit: 1
+2024-06-23T07:10:10.217Z Getting Vehicle Location for Vehicle 1, Page: 10, Limit: 1
+2024-06-23T07:10:13.259Z Getting Vehicle Location for Vehicle 1, Page: 11, Limit: 1
+2024-06-23T07:10:16.302Z Getting Vehicle Location for Vehicle 1, Page: 12, Limit: 1
+2024-06-23T07:10:19.346Z Getting Vehicle Location for Vehicle 1, Page: 13, Limit: 1
+2024-06-23T07:10:22.392Z Getting Vehicle Location for Vehicle 1, Page: 14, Limit: 1
+2024-06-23T07:10:25.433Z Getting Vehicle Location for Vehicle 1, Page: 15, Limit: 1
+2024-06-23T07:10:28.466Z Getting Vehicle Location for Vehicle 1, Page: 16, Limit: 1
+2024-06-23T07:10:31.536Z Getting Vehicle Location for Vehicle 1, Page: 17, Limit: 1
+2024-06-23T07:10:34.579Z Getting Vehicle Location for Vehicle 1, Page: 18, Limit: 1
+2024-06-23T07:10:37.621Z Getting Vehicle Location for Vehicle 1, Page: 19, Limit: 1
+2024-06-23T07:10:40.659Z Getting Vehicle Location for Vehicle 1, Page: 20, Limit: 1
+2024-06-23T07:10:43.692Z Getting Vehicle Location for Vehicle 1, Page: 21, Limit: 1
+2024-06-23T07:10:46.738Z Getting Vehicle Location for Vehicle 1, Page: 22, Limit: 1
+2024-06-23T07:10:49.788Z Getting Vehicle Location for Vehicle 1, Page: 23, Limit: 1
+2024-06-23T07:10:52.929Z Getting Vehicle Location for Vehicle 1, Page: 24, Limit: 1
+2024-06-23T07:10:55.962Z Getting Vehicle Location for Vehicle 1, Page: 25, Limit: 1
+2024-06-23T07:10:59.008Z Getting Vehicle Location for Vehicle 1, Page: 26, Limit: 1
+2024-06-23T07:11:02.045Z Getting Vehicle Location for Vehicle 1, Page: 27, Limit: 1
+2024-06-23T07:11:05.093Z Getting Vehicle Location for Vehicle 1, Page: 28, Limit: 1
+2024-06-23T07:11:08.135Z Getting Vehicle Location for Vehicle 1, Page: 29, Limit: 1
+2024-06-23T07:11:11.175Z Getting Vehicle Location for Vehicle 1, Page: 30, Limit: 1
+2024-06-23T07:11:14.264Z Getting Vehicle Location for Vehicle 1, Page: 31, Limit: 1
+2024-06-23T07:11:17.331Z Getting Vehicle Location for Vehicle 1, Page: 32, Limit: 1
+2024-06-23T07:11:20.375Z Getting Vehicle Location for Vehicle 1, Page: 33, Limit: 1
+2024-06-23T07:11:23.412Z Getting Vehicle Location for Vehicle 1, Page: 34, Limit: 1
+2024-06-23T07:11:26.449Z Getting Vehicle Location for Vehicle 1, Page: 35, Limit: 1
+2024-06-23T07:11:29.483Z Getting Vehicle Location for Vehicle 1, Page: 36, Limit: 1
+2024-06-23T07:11:32.523Z Getting Vehicle Location for Vehicle 1, Page: 37, Limit: 1
+2024-06-23T07:11:35.565Z Getting Vehicle Location for Vehicle 1, Page: 38, Limit: 1
+2024-06-23T07:11:38.604Z Getting Vehicle Location for Vehicle 1, Page: 39, Limit: 1
+2024-06-23T07:11:41.639Z Getting Vehicle Location for Vehicle 1, Page: 40, Limit: 1
+2024-06-23T07:11:44.673Z Getting Vehicle Location for Vehicle 1, Page: 41, Limit: 1
+2024-06-23T07:11:47.708Z Getting Vehicle Location for Vehicle 1, Page: 42, Limit: 1
+2024-06-23T07:11:50.746Z Getting Vehicle Location for Vehicle 1, Page: 43, Limit: 1
+2024-06-23T07:11:53.806Z Getting Vehicle Location for Vehicle 1, Page: 44, Limit: 1
+2024-06-23T07:11:56.843Z Getting Vehicle Location for Vehicle 1, Page: 45, Limit: 1
+2024-06-23T07:11:59.890Z Getting Vehicle Location for Vehicle 1, Page: 46, Limit: 1
+2024-06-23T07:12:02.945Z Getting Vehicle Location for Vehicle 1, Page: 47, Limit: 1
+2024-06-23T07:12:05.977Z Getting Vehicle Location for Vehicle 1, Page: 48, Limit: 1
+2024-06-23T07:12:09.021Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:12.067Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:15.102Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:18.133Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:21.162Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:24.199Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:12:27.244Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:02.979Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:06.050Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:09.077Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:12.114Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:15.153Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:18.189Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:21.241Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:24.272Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:27.305Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:30.337Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:33.382Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:36.413Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:39.451Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:42.492Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:45.525Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:48.560Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:51.593Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:54.632Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:15:57.665Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:00.708Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:03.744Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:06.782Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:09.810Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:12.848Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:15.881Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:18.909Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:21.944Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:24.994Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:28.073Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:32.376Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:16:40.417Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:16:43.459Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T07:16:46.498Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-23T07:16:49.534Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-23T07:16:52.570Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T07:16:55.618Z Getting Vehicle Location for Vehicle 1, Page: 6, Limit: 1
+2024-06-23T07:16:58.662Z Getting Vehicle Location for Vehicle 1, Page: 7, Limit: 1
+2024-06-23T07:17:01.734Z Getting Vehicle Location for Vehicle 1, Page: 8, Limit: 1
+2024-06-23T07:17:04.771Z Getting Vehicle Location for Vehicle 1, Page: 9, Limit: 1
+2024-06-23T07:17:07.808Z Getting Vehicle Location for Vehicle 1, Page: 10, Limit: 1
+2024-06-23T07:17:10.855Z Getting Vehicle Location for Vehicle 1, Page: 11, Limit: 1
+2024-06-23T07:17:13.891Z Getting Vehicle Location for Vehicle 1, Page: 12, Limit: 1
+2024-06-23T07:17:34.329Z Getting Vehicle Location for Vehicle 1, Page: 13, Limit: 1
+2024-06-23T07:17:37.375Z Getting Vehicle Location for Vehicle 1, Page: 14, Limit: 1
+2024-06-23T07:17:40.423Z Getting Vehicle Location for Vehicle 1, Page: 15, Limit: 1
+2024-06-23T07:17:43.463Z Getting Vehicle Location for Vehicle 1, Page: 16, Limit: 1
+2024-06-23T07:17:46.533Z Getting Vehicle Location for Vehicle 1, Page: 17, Limit: 1
+2024-06-23T07:17:49.579Z Getting Vehicle Location for Vehicle 1, Page: 18, Limit: 1
+2024-06-23T07:17:52.638Z Getting Vehicle Location for Vehicle 1, Page: 19, Limit: 1
+2024-06-23T07:17:55.685Z Getting Vehicle Location for Vehicle 1, Page: 20, Limit: 1
+2024-06-23T07:17:58.723Z Getting Vehicle Location for Vehicle 1, Page: 21, Limit: 1
+2024-06-23T07:18:01.767Z Getting Vehicle Location for Vehicle 1, Page: 22, Limit: 1
+2024-06-23T07:18:04.815Z Getting Vehicle Location for Vehicle 1, Page: 23, Limit: 1
+2024-06-23T07:18:07.851Z Getting Vehicle Location for Vehicle 1, Page: 24, Limit: 1
+2024-06-23T07:18:10.889Z Getting Vehicle Location for Vehicle 1, Page: 25, Limit: 1
+2024-06-23T07:18:13.936Z Getting Vehicle Location for Vehicle 1, Page: 26, Limit: 1
+2024-06-23T07:18:16.977Z Getting Vehicle Location for Vehicle 1, Page: 27, Limit: 1
+2024-06-23T07:18:20.018Z Getting Vehicle Location for Vehicle 1, Page: 28, Limit: 1
+2024-06-23T07:18:23.065Z Getting Vehicle Location for Vehicle 1, Page: 29, Limit: 1
+2024-06-23T07:18:26.105Z Getting Vehicle Location for Vehicle 1, Page: 30, Limit: 1
+2024-06-23T07:18:29.145Z Getting Vehicle Location for Vehicle 1, Page: 31, Limit: 1
+2024-06-23T07:18:32.187Z Getting Vehicle Location for Vehicle 1, Page: 32, Limit: 1
+2024-06-23T07:18:35.231Z Getting Vehicle Location for Vehicle 1, Page: 33, Limit: 1
+2024-06-23T07:18:38.288Z Getting Vehicle Location for Vehicle 1, Page: 34, Limit: 1
+2024-06-23T07:18:41.353Z Getting Vehicle Location for Vehicle 1, Page: 35, Limit: 1
+2024-06-23T07:18:44.438Z Getting Vehicle Location for Vehicle 1, Page: 36, Limit: 1
+2024-06-23T07:18:47.519Z Getting Vehicle Location for Vehicle 1, Page: 37, Limit: 1
+2024-06-23T07:18:50.567Z Getting Vehicle Location for Vehicle 1, Page: 38, Limit: 1
+2024-06-23T07:18:53.605Z Getting Vehicle Location for Vehicle 1, Page: 39, Limit: 1
+2024-06-23T07:18:56.639Z Getting Vehicle Location for Vehicle 1, Page: 40, Limit: 1
+2024-06-23T07:18:59.677Z Getting Vehicle Location for Vehicle 1, Page: 41, Limit: 1
+2024-06-23T07:19:02.713Z Getting Vehicle Location for Vehicle 1, Page: 42, Limit: 1
+2024-06-23T07:19:05.758Z Getting Vehicle Location for Vehicle 1, Page: 43, Limit: 1
+2024-06-23T07:19:08.788Z Getting Vehicle Location for Vehicle 1, Page: 44, Limit: 1
+2024-06-23T07:19:11.827Z Getting Vehicle Location for Vehicle 1, Page: 45, Limit: 1
+2024-06-23T07:19:14.860Z Getting Vehicle Location for Vehicle 1, Page: 46, Limit: 1
+2024-06-23T07:19:17.894Z Getting Vehicle Location for Vehicle 1, Page: 47, Limit: 1
+2024-06-23T07:19:20.941Z Getting Vehicle Location for Vehicle 1, Page: 48, Limit: 1
+2024-06-23T07:19:23.978Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T07:23:16.311Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:44:59.541Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T07:45:02.579Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T07:45:05.614Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-23T07:45:08.644Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-23T07:45:11.688Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T07:45:14.729Z Getting Vehicle Location for Vehicle 1, Page: 6, Limit: 1
+2024-06-23T07:45:17.765Z Getting Vehicle Location for Vehicle 1, Page: 7, Limit: 1
+2024-06-23T07:45:20.808Z Getting Vehicle Location for Vehicle 1, Page: 8, Limit: 1
+2024-06-23T07:45:23.851Z Getting Vehicle Location for Vehicle 1, Page: 9, Limit: 1
+2024-06-23T07:45:26.883Z Getting Vehicle Location for Vehicle 1, Page: 10, Limit: 1
+2024-06-23T07:45:29.929Z Getting Vehicle Location for Vehicle 1, Page: 11, Limit: 1
+2024-06-23T07:45:32.975Z Getting Vehicle Location for Vehicle 1, Page: 12, Limit: 1
+2024-06-23T07:57:40.356Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06651224906418,24.858148366486652]}}
+2024-06-23T07:58:08.132Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.066766430066345,24.858302120693306]}}
+2024-06-23T07:58:38.072Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06656308526461,24.85867113000939]}}
+2024-06-23T07:59:08.183Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06607166866043,24.859224641919]}}
+2024-06-23T08:18:44.432Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06607166866043,24.859224641919]}}
+2024-06-23T08:19:03.334Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06527523485365,24.86002415474793]}}
+2024-06-23T08:19:18.655Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06507189005192,24.86023940731866]}}
+2024-06-23T08:19:34.266Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06481770904975,24.86000877954997]}}
+2024-06-23T08:19:50.226Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06420767464456,24.859655149469216]}}
+2024-06-23T08:20:07.886Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06339429543763,24.859117014797288]}}
+2024-06-23T08:20:25.060Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06256397083056,24.858517376261496]}}
+2024-06-23T08:20:41.350Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.062072554226376,24.858655754643216]}}
+2024-06-23T08:20:57.167Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.061818373224206,24.85897863693171]}}
+2024-06-23T08:21:14.495Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06129306581973,24.859609023731934]}}
+2024-06-23T08:21:32.576Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.061225284219155,24.86011640589555]}}
+2024-06-23T08:21:48.580Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06102754487189,24.860299274133933]}}
+2024-06-23T08:22:03.824Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.060812669795,24.860185102701383]}}
+2024-06-23T08:22:21.097Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06069039548883,24.85999788469652]}}
+2024-06-23T08:22:35.984Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.060491699741306,24.859838402468817]}}
+2024-06-23T08:22:51.087Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05997967608425,24.85954023949136]}}
+2024-06-23T08:23:08.071Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0593224516886,24.85911726287147]}}
+2024-06-23T08:23:22.956Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.058932702337685,24.85886070257746]}}
+2024-06-23T08:23:40.569Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05868815372536,24.858756691495817]}}
+2024-06-23T08:23:59.348Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05807678219453,24.858305975797837]}}
+2024-06-23T08:24:12.534Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0575724006816,24.858125689058696]}}
+2024-06-23T08:24:25.771Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0572055777631,24.858139557278726]}}
+2024-06-23T08:24:38.353Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05693810271836,24.858361448587765]}}
+2024-06-23T08:24:52.120Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05645664763784,24.85886070257746]}}
+2024-06-23T08:25:05.772Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0559599084131,24.859408492839062]}}
+2024-06-23T08:25:19.039Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05371311810797,24.861779911283538]}}
+2024-06-23T08:25:33.572Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0515121807256,24.863971006063164]}}
+2024-06-23T08:25:47.575Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.048256627439876,24.867479450338283]}}
+2024-06-23T08:26:02.089Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0461704429187,24.86998855188927]}}
+2024-06-23T08:26:15.786Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.045702325813956,24.870632533079906]}}
+2024-06-23T08:26:29.312Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.045736386902135,24.870996490724067]}}
+2024-06-23T08:26:43.370Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.045444476948774,24.87122142086402]}}
+2024-06-23T08:26:57.285Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04525253615752,24.871235932471894]}}
+2024-06-23T08:27:09.825Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.045020607750814,24.87143909482098]}}
+2024-06-23T08:27:21.768Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04488065092386,24.871642256818372]}}
+2024-06-23T08:27:35.461Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04409689271179,24.87262541106082]}}
+2024-06-23T08:27:58.219Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04280129242282,24.874341377414638]}}
+2024-06-23T08:28:11.792Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04183476832346,24.875591889479594]}}
+2024-06-23T08:28:24.620Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04106380787265,24.876657700925673]}}
+2024-06-23T08:28:37.091Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0408194161711,24.87731163116279]}}
+2024-06-23T08:28:49.877Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0408539151978,24.87776544968295]}}
+2024-06-23T08:29:05.242Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.041134219801464,24.878602662224257]}}
+2024-06-23T08:29:17.452Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.041932009822666,24.87950637593964]}}
+2024-06-23T08:31:23.423Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04295404352854,24.880179266707298]}}
+2024-06-23T08:31:55.188Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04435987892125,24.881094705241797]}}
+2024-06-23T08:32:10.135Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.044838552952754,24.881470267797578]}}
+2024-06-23T08:32:24.828Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04647294439713,24.882514795172508]}}
+2024-06-23T08:32:45.320Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04770628464633,24.883312855084053]}}
+2024-06-23T08:32:59.983Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.04900862295969,24.884138293975774]}}
+2024-06-23T08:33:13.121Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.050612827752424,24.885151502897337]}}
+2024-06-23T08:33:30.529Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.052307592522155,24.88624685453794]}}
+2024-06-23T08:33:43.091Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.05483033396176,24.88784683286866]}}
+2024-06-23T08:34:00.960Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.059030590595334,24.890514721311302]}}
+2024-06-23T08:34:13.227Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0611479684177,24.89190732053891]}}
+2024-06-23T08:34:26.086Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06375264506124,24.893550254474828]}}
+2024-06-23T08:34:43.205Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06724135925659,24.89577991557117]}}
+2024-06-23T08:34:55.008Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.087517262180135,24.908593403727792]}}
+2024-06-23T08:35:12.274Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.088654518848344,24.908710173857177]}}
+2024-06-23T08:35:24.247Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0890085704526,24.90951783089327]}}
+2024-06-23T08:35:36.701Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09093976091348,24.910957977343916]}}
+2024-06-23T08:35:50.370Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09645438273728,24.914480426831666]}}
+2024-06-23T08:36:02.422Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10273075187283,24.91853793044704]}}
+2024-06-23T08:36:13.977Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10386800841812,24.91885902218706]}}
+2024-06-23T08:36:26.508Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.104726315337516,24.919666612776357]}}
+2024-06-23T08:36:38.064Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10468339999154,24.91987094208716]}}
+2024-06-23T08:36:50.593Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10403966980199,24.92036716900389]}}
+2024-06-23T08:37:03.561Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10320282055559,24.920299059545314]}}
+2024-06-23T08:37:18.014Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10018725653324,24.922052038100624]}}
+2024-06-23T08:37:29.056Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09455461756123,24.925593629793116]}}
+2024-06-23T08:37:41.663Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.092548325137145,24.92692656512252]}}
+2024-06-23T08:37:53.167Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09231341633827,24.927450378587782]}}
+2024-06-23T08:38:05.153Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09166433463229,24.927661675970477]}}
+2024-06-23T08:38:17.720Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09124825661564,24.927706953933935]}}
+2024-06-23T08:38:30.071Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.08635394780697,24.930761921087445]}}
+2024-06-23T08:38:41.921Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07725263381487,24.93643915512666]}}
+2024-06-23T08:38:53.583Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.0767345275936,24.936945978759425]}}
+2024-06-23T08:39:09.777Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07639120482584,24.937490779797887]}}
+2024-06-23T08:39:25.402Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07579038998227,24.93751023693331]}}
+2024-06-23T08:39:37.643Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.07503937142779,24.93783127922377]}}
+2024-06-23T08:39:50.281Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.06665320703184,24.94412104373951]}}
+2024-06-23T08:40:01.984Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.067512727202,24.94838138213905]}}
+2024-06-23T08:40:13.591Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.093290932464654,24.988415539729612]}}
+2024-06-23T08:40:25.223Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.09838572983769,25.019586624381546]}}
+2024-06-23T08:40:40.929Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.10688127489336,25.035211062334994]}}
+2024-06-23T08:40:53.571Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.141642433965,25.074765441392397]}}
+2024-06-23T08:41:09.087Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.18824693870092,25.11327199173756]}}
+2024-06-23T08:41:21.017Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.25023599354149,25.18085141454041]}}
+2024-06-23T08:41:33.357Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.25684890383191,25.187879408676668]}}
+2024-06-23T08:41:51.674Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.257374616820044,25.18827746501586]}}
+2024-06-23T08:42:02.937Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.25893029811146,25.190044431112824]}}
+2024-06-23T08:42:14.805Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.25958475713749,25.190403646360313]}}
+2024-06-23T08:42:26.718Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.26003536827018,25.190112390835484]}}
+2024-06-23T08:42:39.604Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.26319909226075,25.187616909805453]}}
+2024-06-23T08:42:54.785Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.263857749451425,25.187116076731247]}}
+2024-06-23T08:43:06.495Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.26575138906919,25.18874274187924]}}
+2024-06-23T08:43:18.043Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.2694105961888,25.190708783983307]}}
+2024-06-23T08:43:31.232Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.268349450973034,25.19210321279995]}}
+2024-06-23T08:43:42.819Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.268604725401914,25.192506736335858]}}
+2024-06-23T08:43:59.309Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.269003483846284,25.192803579105856]}}
+2024-06-23T08:44:11.804Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.269174738945225,25.1928013569825]}}
+2024-06-23T08:44:23.226Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.269396369947394,25.192485785928383]}}
+2024-06-23T08:44:35.098Z GeoLocation Data for Vehicle 1: {"vehicleId":"Vehicle 1","location":{"type":"Point","coordinates":[55.26953325968403,25.19256836534862]}}
+2024-06-23T08:45:08.647Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T08:45:37.235Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T08:45:40.282Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T08:45:43.319Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
+2024-06-23T08:45:46.357Z Getting Vehicle Location for Vehicle 1, Page: 4, Limit: 1
+2024-06-23T08:45:49.400Z Getting Vehicle Location for Vehicle 1, Page: 5, Limit: 1
+2024-06-23T08:45:52.440Z Getting Vehicle Location for Vehicle 1, Page: 6, Limit: 1
+2024-06-23T08:45:55.479Z Getting Vehicle Location for Vehicle 1, Page: 7, Limit: 1
+2024-06-23T08:45:58.516Z Getting Vehicle Location for Vehicle 1, Page: 8, Limit: 1
+2024-06-23T08:46:01.547Z Getting Vehicle Location for Vehicle 1, Page: 9, Limit: 1
+2024-06-23T08:46:04.585Z Getting Vehicle Location for Vehicle 1, Page: 10, Limit: 1
+2024-06-23T08:46:07.632Z Getting Vehicle Location for Vehicle 1, Page: 11, Limit: 1
+2024-06-23T08:46:10.673Z Getting Vehicle Location for Vehicle 1, Page: 12, Limit: 1
+2024-06-23T08:46:13.717Z Getting Vehicle Location for Vehicle 1, Page: 13, Limit: 1
+2024-06-23T08:46:16.747Z Getting Vehicle Location for Vehicle 1, Page: 14, Limit: 1
+2024-06-23T08:46:19.781Z Getting Vehicle Location for Vehicle 1, Page: 15, Limit: 1
+2024-06-23T08:46:22.821Z Getting Vehicle Location for Vehicle 1, Page: 16, Limit: 1
+2024-06-23T08:46:25.855Z Getting Vehicle Location for Vehicle 1, Page: 17, Limit: 1
+2024-06-23T08:46:28.895Z Getting Vehicle Location for Vehicle 1, Page: 18, Limit: 1
+2024-06-23T08:46:31.942Z Getting Vehicle Location for Vehicle 1, Page: 19, Limit: 1
+2024-06-23T08:46:34.981Z Getting Vehicle Location for Vehicle 1, Page: 20, Limit: 1
+2024-06-23T08:46:38.014Z Getting Vehicle Location for Vehicle 1, Page: 21, Limit: 1
+2024-06-23T08:46:41.052Z Getting Vehicle Location for Vehicle 1, Page: 22, Limit: 1
+2024-06-23T08:46:44.092Z Getting Vehicle Location for Vehicle 1, Page: 23, Limit: 1
+2024-06-23T08:46:47.137Z Getting Vehicle Location for Vehicle 1, Page: 24, Limit: 1
+2024-06-23T08:46:50.181Z Getting Vehicle Location for Vehicle 1, Page: 25, Limit: 1
+2024-06-23T08:46:53.219Z Getting Vehicle Location for Vehicle 1, Page: 26, Limit: 1
+2024-06-23T08:46:56.261Z Getting Vehicle Location for Vehicle 1, Page: 27, Limit: 1
+2024-06-23T08:46:59.298Z Getting Vehicle Location for Vehicle 1, Page: 28, Limit: 1
+2024-06-23T08:47:02.455Z Getting Vehicle Location for Vehicle 1, Page: 29, Limit: 1
+2024-06-23T08:47:05.486Z Getting Vehicle Location for Vehicle 1, Page: 30, Limit: 1
+2024-06-23T08:47:08.528Z Getting Vehicle Location for Vehicle 1, Page: 31, Limit: 1
+2024-06-23T08:47:11.565Z Getting Vehicle Location for Vehicle 1, Page: 32, Limit: 1
+2024-06-23T08:47:14.602Z Getting Vehicle Location for Vehicle 1, Page: 33, Limit: 1
+2024-06-23T08:47:17.647Z Getting Vehicle Location for Vehicle 1, Page: 34, Limit: 1
+2024-06-23T08:47:20.690Z Getting Vehicle Location for Vehicle 1, Page: 35, Limit: 1
+2024-06-23T08:47:23.724Z Getting Vehicle Location for Vehicle 1, Page: 36, Limit: 1
+2024-06-23T08:47:26.768Z Getting Vehicle Location for Vehicle 1, Page: 37, Limit: 1
+2024-06-23T08:47:29.809Z Getting Vehicle Location for Vehicle 1, Page: 38, Limit: 1
+2024-06-23T08:47:32.852Z Getting Vehicle Location for Vehicle 1, Page: 39, Limit: 1
+2024-06-23T08:47:35.892Z Getting Vehicle Location for Vehicle 1, Page: 40, Limit: 1
+2024-06-23T08:47:38.936Z Getting Vehicle Location for Vehicle 1, Page: 41, Limit: 1
+2024-06-23T08:47:41.981Z Getting Vehicle Location for Vehicle 1, Page: 42, Limit: 1
+2024-06-23T08:47:45.018Z Getting Vehicle Location for Vehicle 1, Page: 43, Limit: 1
+2024-06-23T08:47:48.050Z Getting Vehicle Location for Vehicle 1, Page: 44, Limit: 1
+2024-06-23T08:47:51.081Z Getting Vehicle Location for Vehicle 1, Page: 45, Limit: 1
+2024-06-23T08:47:54.124Z Getting Vehicle Location for Vehicle 1, Page: 46, Limit: 1
+2024-06-23T08:47:57.163Z Getting Vehicle Location for Vehicle 1, Page: 47, Limit: 1
+2024-06-23T08:48:00.211Z Getting Vehicle Location for Vehicle 1, Page: 48, Limit: 1
+2024-06-23T08:48:03.247Z Getting Vehicle Location for Vehicle 1, Page: 49, Limit: 1
+2024-06-23T08:48:06.290Z Getting Vehicle Location for Vehicle 1, Page: 50, Limit: 1
+2024-06-23T08:48:09.323Z Getting Vehicle Location for Vehicle 1, Page: 51, Limit: 1
+2024-06-23T08:48:12.355Z Getting Vehicle Location for Vehicle 1, Page: 52, Limit: 1
+2024-06-23T08:48:15.397Z Getting Vehicle Location for Vehicle 1, Page: 53, Limit: 1
+2024-06-23T08:48:18.438Z Getting Vehicle Location for Vehicle 1, Page: 54, Limit: 1
+2024-06-23T08:48:21.481Z Getting Vehicle Location for Vehicle 1, Page: 55, Limit: 1
+2024-06-23T08:48:24.519Z Getting Vehicle Location for Vehicle 1, Page: 56, Limit: 1
+2024-06-23T08:48:27.550Z Getting Vehicle Location for Vehicle 1, Page: 57, Limit: 1
+2024-06-23T08:48:30.588Z Getting Vehicle Location for Vehicle 1, Page: 58, Limit: 1
+2024-06-23T08:48:33.631Z Getting Vehicle Location for Vehicle 1, Page: 59, Limit: 1
+2024-06-23T08:48:36.677Z Getting Vehicle Location for Vehicle 1, Page: 60, Limit: 1
+2024-06-23T08:48:39.720Z Getting Vehicle Location for Vehicle 1, Page: 61, Limit: 1
+2024-06-23T08:48:42.766Z Getting Vehicle Location for Vehicle 1, Page: 62, Limit: 1
+2024-06-23T08:48:45.809Z Getting Vehicle Location for Vehicle 1, Page: 63, Limit: 1
+2024-06-23T08:48:48.853Z Getting Vehicle Location for Vehicle 1, Page: 64, Limit: 1
+2024-06-23T08:48:51.884Z Getting Vehicle Location for Vehicle 1, Page: 65, Limit: 1
+2024-06-23T08:48:54.914Z Getting Vehicle Location for Vehicle 1, Page: 66, Limit: 1
+2024-06-23T08:48:57.958Z Getting Vehicle Location for Vehicle 1, Page: 67, Limit: 1
+2024-06-23T08:49:00.995Z Getting Vehicle Location for Vehicle 1, Page: 68, Limit: 1
+2024-06-23T08:49:04.039Z Getting Vehicle Location for Vehicle 1, Page: 69, Limit: 1
+2024-06-23T08:49:07.102Z Getting Vehicle Location for Vehicle 1, Page: 70, Limit: 1
+2024-06-23T08:49:10.147Z Getting Vehicle Location for Vehicle 1, Page: 71, Limit: 1
+2024-06-23T08:49:13.190Z Getting Vehicle Location for Vehicle 1, Page: 72, Limit: 1
+2024-06-23T08:49:16.231Z Getting Vehicle Location for Vehicle 1, Page: 73, Limit: 1
+2024-06-23T08:49:19.274Z Getting Vehicle Location for Vehicle 1, Page: 74, Limit: 1
+2024-06-23T08:49:22.304Z Getting Vehicle Location for Vehicle 1, Page: 75, Limit: 1
+2024-06-23T08:49:25.346Z Getting Vehicle Location for Vehicle 1, Page: 76, Limit: 1
+2024-06-23T08:49:28.381Z Getting Vehicle Location for Vehicle 1, Page: 77, Limit: 1
+2024-06-23T08:49:31.508Z Getting Vehicle Location for Vehicle 1, Page: 78, Limit: 1
+2024-06-23T08:49:34.546Z Getting Vehicle Location for Vehicle 1, Page: 79, Limit: 1
+2024-06-23T08:49:37.581Z Getting Vehicle Location for Vehicle 1, Page: 80, Limit: 1
+2024-06-23T08:49:40.624Z Getting Vehicle Location for Vehicle 1, Page: 81, Limit: 1
+2024-06-23T08:49:43.665Z Getting Vehicle Location for Vehicle 1, Page: 82, Limit: 1
+2024-06-23T08:49:46.713Z Getting Vehicle Location for Vehicle 1, Page: 83, Limit: 1
+2024-06-23T08:49:49.757Z Getting Vehicle Location for Vehicle 1, Page: 84, Limit: 1
+2024-06-23T08:49:52.800Z Getting Vehicle Location for Vehicle 1, Page: 85, Limit: 1
+2024-06-23T08:49:55.840Z Getting Vehicle Location for Vehicle 1, Page: 86, Limit: 1
+2024-06-23T08:49:58.884Z Getting Vehicle Location for Vehicle 1, Page: 87, Limit: 1
+2024-06-23T08:50:01.922Z Getting Vehicle Location for Vehicle 1, Page: 88, Limit: 1
+2024-06-23T08:50:04.952Z Getting Vehicle Location for Vehicle 1, Page: 89, Limit: 1
+2024-06-23T08:50:07.992Z Getting Vehicle Location for Vehicle 1, Page: 90, Limit: 1
+2024-06-23T08:50:11.031Z Getting Vehicle Location for Vehicle 1, Page: 91, Limit: 1
+2024-06-23T08:50:14.062Z Getting Vehicle Location for Vehicle 1, Page: 92, Limit: 1
+2024-06-23T08:50:17.092Z Getting Vehicle Location for Vehicle 1, Page: 93, Limit: 1
+2024-06-23T08:50:20.126Z Getting Vehicle Location for Vehicle 1, Page: 94, Limit: 1
+2024-06-23T08:50:23.164Z Getting Vehicle Location for Vehicle 1, Page: 95, Limit: 1
+2024-06-23T08:50:26.207Z Getting Vehicle Location for Vehicle 1, Page: 96, Limit: 1
+2024-06-23T08:50:29.243Z Getting Vehicle Location for Vehicle 1, Page: 97, Limit: 1
+2024-06-23T08:50:32.281Z Getting Vehicle Location for Vehicle 1, Page: 98, Limit: 1
+2024-06-23T08:50:35.320Z Getting Vehicle Location for Vehicle 1, Page: 99, Limit: 1
+2024-06-23T08:50:38.350Z Getting Vehicle Location for Vehicle 1, Page: 100, Limit: 1
+2024-06-23T08:50:41.381Z Getting Vehicle Location for Vehicle 1, Page: 101, Limit: 1
+2024-06-23T08:50:44.414Z Getting Vehicle Location for Vehicle 1, Page: 102, Limit: 1
+2024-06-23T08:51:06.843Z Getting Vehicle Location for Vehicle 1, Page: 1, Limit: 1
+2024-06-23T08:51:09.883Z Getting Vehicle Location for Vehicle 1, Page: 2, Limit: 1
+2024-06-23T08:51:12.946Z Getting Vehicle Location for Vehicle 1, Page: 3, Limit: 1
